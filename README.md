@@ -24,7 +24,7 @@ This project explores, models, and productionizes churn prediction for sportsboo
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/urbdaniel86/ml-technical-assessment
    cd ml-technical-assessment
    ```
 2. **Create and activate the Conda environment**:
