@@ -1,0 +1,15 @@
+name: sportsbook-churn-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - openpyxl
+  - xgboost
+  - shap
